@@ -1,0 +1,16 @@
+The following project is based on the Arduino library called "glcd", and it is available at this URL:
+http://code.google.com/p/glcd-arduino/downloads/detail?name=glcd-20110423.zip&can=2&q=
+
+and the other arduino Library "Time" avaiable on playground:
+http://www.arduino.cc/playground/Code/Time
+
+The wiring must be follow the table on page 3 of the document "GLCD_Documentation.pdf".
+But it is possible to do another wiring considering that 
+DATA pin must be on the same AVR port 
+Command pin must be on another same port.
+
+
+Eclipse setting:
+Import the eclipseCompileSetting.xml configuration file and adapt the directories.
+
+
